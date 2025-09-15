@@ -1,0 +1,9 @@
+# Ignora el entorno virtual de Python
+venv/
+
+# Ignora archivos temporales y de caché de Python
+__pycache__/
+*.pyc
+
+# Ignora los archivos de puntos de control de Jupyter Notebook
+.ipynb_checkpoints/
